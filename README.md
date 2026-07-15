@@ -14,6 +14,13 @@ Construí um perfil híbrido que une a **fundamentação técnica** em desenvolv
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
+    <a href="https://github.com/DiogoCarv?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/DiogoCarv?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
     <a href="https://github.com/DiogoCarv?tab=followers">
         <img 
             alt="Seguidores" 
@@ -46,7 +53,8 @@ Construí um perfil híbrido que une a **fundamentação técnica** em desenvolv
 #### **Gestão, Organização & Design**
 <p align="left">
   <img alt="Trello" title="Trello" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" style="padding-right: 5px;"/>
-  <img alt="ClickUp" title="ClickUp" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickup/clickup-original.svg" style="padding-right: 5px;"/>
+  <img alt="ClickUp" title="ClickUp" width="35px" src="https://cdn.simpleicons.org/clickup/7B68EE" style="padding-right: 5px;"/>
+  <img alt="Excel" title="Excel" width="35px" src="https://cdn.simpleicons.org/microsoftexcel/107C41" style="padding-right: 5px;"/>
   <img alt="Figma" title="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="padding-right: 5px;"/>
   <img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right: 5px;"/>
 </p>
