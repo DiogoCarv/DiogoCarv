@@ -1,10 +1,10 @@
 # 👨‍💻 Diogo Carvalho
 
-**`Engenharia de Computação | Liderança & Gestão de Projetos`**
+**`Engenharia de Computação | Gestão de Projetos & Desenvolvimento`**
 
-Me chamo Diogo da Silva Carvalho, sou natural de Minas Gerais e atualmente moro em Cataguases. Minha paixão pela tecnologia começou cedo, no curso técnico em informática no IF Sudeste MG, e hoje continuo essa jornada cursando Engenharia de Computação no CEFET-MG.
+Me chamo Diogo da Silva Carvalho, sou de Minas Gerais e atualmente moro em Cataguases. Minha trajetória na tecnologia começou no curso técnico em informática no IF Sudeste MG e, hoje, sigo evoluindo na graduação de Engenharia de Computação no CEFET-MG.
 
-Diferente do caminho tradicional de desenvolvimento de software, divido meu foco entre a **fundamentação técnica em baixo nível** (como algoritmos complexos e estruturas de dados) e a **gestão estratégica de pessoas e projetos** (com forte atuação em empresas juniores como a Encautech Jr. e ecossistemas como o Crea Jr-MG). Também adoro compartilhar conhecimento e já atuei como instrutor ministrando minicursos técnicos.
+Construí um perfil híbrido que une a **fundamentação técnica** em desenvolvimento de software (da lógica clássica e baixo nível ao desenvolvimento web moderno) com a **gestão estratégica de pessoas e projetos** (com forte atuação como Diretor de Projetos na Encautech Jr. e coordenação no Crea Jr-MG). Também tenho excelente comunicação e adoro compartilhar conhecimento, tendo atuado como instrutor de minicursos técnicos de banco de dados.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/diogo-das-carvalho">
@@ -12,13 +12,6 @@ Diferente do caminho tradicional de desenvolvimento de software, divido meu foco
             alt="LinkedIn" 
             title="Conecte-se comigo" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/DiogoCarv?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DiogoCarv?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/DiogoCarv?tab=followers">
@@ -34,22 +27,28 @@ Diferente do caminho tradicional de desenvolvimento de software, divido meu foco
 
 ### 🛠️ Tecnologias & Ferramentas
 
-#### **Linguagens de Programação & Banco de Dados**
+#### **Desenvolvimento (Linguagens & Web)**
 <p align="left">
-  <img alt="C" title="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="padding-right: 5px;"/>
+  <img alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right: 5px;"/>
   <img alt="C++" title="C++" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="padding-right: 5px;"/>
+  <img alt="C" title="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="padding-right: 5px;"/>
   <img alt="C#" title="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right: 5px;"/>
   <img alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right: 5px;"/>
+  <img alt="PHP" title="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="padding-right: 5px;"/>
+  <img alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right: 5px;"/>
+  <img alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right: 5px;"/>
   <img alt="TypeScript" title="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="padding-right: 5px;"/>
+  <img alt="HTML5" title="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right: 5px;"/>
   <img alt="MySQL" title="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="padding-right: 5px;"/>
+  <img alt="WordPress" title="WordPress" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" style="padding-right: 5px;"/>
 </p>
 
-#### **Frameworks, Ferramentas & Design**
+#### **Gestão, Organização & Design**
 <p align="left">
-  <img alt="WordPress" title="WordPress" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" style="padding-right: 5px;"/>
+  <img alt="Trello" title="Trello" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" style="padding-right: 5px;"/>
+  <img alt="ClickUp" title="ClickUp" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickup/clickup-original.svg" style="padding-right: 5px;"/>
   <img alt="Figma" title="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="padding-right: 5px;"/>
   <img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right: 5px;"/>
-  <img alt="Trello" title="Trello" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" style="padding-right: 5px;"/>
 </p>
 
 ---
