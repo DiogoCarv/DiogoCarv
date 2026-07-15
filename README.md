@@ -54,7 +54,7 @@ Construí um perfil híbrido que une a **fundamentação técnica** em desenvolv
 <p align="left">
   <img alt="Trello" title="Trello" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" style="padding-right: 5px;"/>
   <img alt="ClickUp" title="ClickUp" width="35px" src="https://cdn.simpleicons.org/clickup/7B68EE" style="padding-right: 5px;"/>
-  <img alt="Excel" title="Excel" width="35px" src="https://cdn.simpleicons.org/microsoftexcel/107C41" style="padding-right: 5px;"/>
+  <img alt="Excel" title="Excel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoft-excel/microsoft-excel-original.svg" style="padding-right: 5px;"/>
   <img alt="Figma" title="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="padding-right: 5px;"/>
   <img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right: 5px;"/>
 </p>
